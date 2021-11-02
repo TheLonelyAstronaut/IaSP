@@ -1,0 +1,11 @@
+Square: 152
+Pereimeter: 43
+Density: 12.164473684210526
+Elongation : 2.3024090481843555
+Center of mass x=3.4444444444444446 y=1.0
+Static moments:
+stM02=6.0
+stM11=14.222222222222225
+stM20=-1.0
+Height: 3
+Width: 5
